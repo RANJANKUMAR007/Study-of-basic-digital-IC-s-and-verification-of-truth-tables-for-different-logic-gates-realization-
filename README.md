@@ -66,7 +66,8 @@ RegisterNumber:
 Logic symbol & Truthtable
 RTL realization
 Output:
+![de pro 1](https://github.com/RANJANKUMAR007/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152128740/4247c1bc-7f99-42cd-8fa5-fb678aa8030c)
 RTL
-
+![de pro 1 rtl](https://github.com/RANJANKUMAR007/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152128740/56f560af-9de6-45ab-ac01-762358ac42f3)
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
